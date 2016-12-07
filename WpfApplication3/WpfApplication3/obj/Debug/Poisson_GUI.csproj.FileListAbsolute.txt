@@ -1,0 +1,48 @@
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.dll
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.pdb
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.xml
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\Poisson_GUI.csproj.GenerateResource.Cache
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Andrei\Documents\Conestoga_College_HW\Programming_Csharp_Course\WpfApplication3\WpfApplication3\obj\Debug\Poisson_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.xml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\Poisson_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Poisson_1D_GUI\WpfApplication3\WpfApplication3\obj\Debug\Poisson_GUI.csproj.GenerateResource.Cache
